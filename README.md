@@ -7,3 +7,4 @@ The purpose of refactoring is to restructure the software code to become more co
 #### Advantages and Disadvanatges of the Original and refactored VBA script
 The original VBA script that was used to analyze the DQ stock worked well because the script went over just one of the twelve stocks. Continuing to analyze the other eleven stocks in this manner would have taken up more productivity time and result in a large amount of data to navigate. For the year 2017 the data was compiled within 0.4609375 seconds and for the year 2018 it was compiled in 0.453125. 
 By performing refactoring to all the stocks data, the VBA script was able to compile the data significantly faster. For the year 2017 the timing was 0.1015626 and for the year 2018 it was 0.109375, this method shaved off about 0.35 seconds from the original VBA script. Screenshots of the tests run are provided. 
+![](images/https://github.com/jmvaldi/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20copy.png)
